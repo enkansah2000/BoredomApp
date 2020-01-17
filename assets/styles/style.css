@@ -1,0 +1,59 @@
+body {
+  font-family: 'Roboto, sans-serif';
+}
+.jumbotron{
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    height: 100%;
+    opacity: 75%;
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    background-image: url("https://concertpass.net/wp-content/uploads/2015/02/concert-crowd-2000x650.jpg"); 
+}
+
+#search {
+  margin-left: 330px;
+  width: 50%;
+  color: black;
+  border: black;    
+}
+#form-control{
+  color: black;
+}
+.jumbotron h1{
+  color: whitesmoke;
+  font-size: 100px;
+  font-weight: bold;
+  opacity: 100%;
+}
+#ex{
+  color: white;;
+  font-weight: bold;
+  opacity: 100%;
+}
+#button-addon2{
+  color: white;
+  border: black;
+  font-family: 'Roboto, sans-serif';
+  font-weight: bold;
+  background-color: lightslategray;
+  opacity: 100%;
+  margin-left: 3px;
+}
+#chx{
+  color: white;
+  font-weight: bold;
+  opacity: 100%;
+  text-shadow: -1px 0 w, 0 1px black, 1px 0 black, 0 -1px black;
+}
+
+#events.card{
+  margin-bottom: 10px;
+}
+.card{
+  margin-bottom: 10px;
+}
